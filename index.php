@@ -6,6 +6,10 @@
   </head>
   <body>
     <p>byubu</p>
+    <?php
+    $vincent = 'je suis vincent';
 
+    echo $vincent .'et je suis chinois';
+    ?>
   </body>
 </html>

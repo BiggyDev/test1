@@ -18,6 +18,7 @@
     >>>>>>> 94e0eeea2b29d53fd41f34ec223b6653af64f6e8
 
     <p>fait un git push</p>
+    <p>fait un git pull et après tu tournes sur toi meme et t'es développeur</p>
 
   </body>
 </html>

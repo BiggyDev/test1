@@ -9,7 +9,7 @@
     <?php
     $vincent = 'je suis vincent';
 
-    echo $vincent .'et je suis chinois';
+    echo $vincent .'et je suis chinoise';
     ?>
   </body>
 </html>

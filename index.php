@@ -5,20 +5,14 @@
     <title></title>
   </head>
   <body>
-<<<<<<< HEAD
-    <p>byubu</p>
-    <?php
-    $vincent = 'je suis vincent';
-=======
+<p>Maitre Corbeau, sur un arbre perché
+  Tenait en son bec un fromage.
+  Maitre Renard, par l odeur alléché,
+  Lui tint à peu pres ce langage :
+  Et bonjour monsieur du corbeau ,
+  Que vous etes jolie ! que vous me semblez beau !
+</p>
 
-
-    echo $vincent .'et je suis chinoise';
-    ?>
-    <p>on fait quoi</p>
-    >>>>>>> 94e0eeea2b29d53fd41f34ec223b6653af64f6e8
-
-<<<<<<< HEAD
-<p> wsh jeanluc et vincent sa fout quoi le php c'est comment ?</p>
 
   </body>
 </html>

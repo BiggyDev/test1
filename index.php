@@ -11,10 +11,11 @@
     $vincent = 'je suis vincent';
 =======
 
-<p>on fait quoi</p>
->>>>>>> 94e0eeea2b29d53fd41f34ec223b6653af64f6e8
 
     echo $vincent .'et je suis chinoise';
     ?>
+    <p>on fait quoi</p>
+    >>>>>>> 94e0eeea2b29d53fd41f34ec223b6653af64f6e8
+
   </body>
 </html>

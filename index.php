@@ -5,15 +5,17 @@
     <title></title>
   </head>
   <body>
+<<<<<<< HEAD
 <h1>le corbeau et vincent</h1>
 
 
-
-
-
-
-
-
+<p>Maitre Corbeau, sur un arbre perché
+  Tenait en son bec un fromage.
+  Maitre Renard, par l odeur alléché,
+  Lui tint à peu pres ce langage :
+  Et bonjour monsieur du corbeau ,
+  Que vous etes jolie ! que vous me semblez beau !
+</p>
 
 
 

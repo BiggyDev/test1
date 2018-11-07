@@ -16,7 +16,11 @@
     ?>
     <p>on fait quoi</p>
     >>>>>>> 94e0eeea2b29d53fd41f34ec223b6653af64f6e8
+<<<<<<< HEAD
 
 <p>wsh roi ahmedi la famille tout ça</p>
+=======
+<p>wsh misterjeanluc bien ou quoi ?</p>
+>>>>>>> e7d3bf052a6f7cfd54b692102793f07d2829ed37
   </body>
 </html>

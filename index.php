@@ -19,7 +19,7 @@
 
 <<<<<<< HEAD
 <p> wsh jeanluc et vincent sa fout quoi le php c'est comment ?</p>
-
+fbvgdrfsgxdfgxfgdfgdfgdfgdfgdfgdfgdfdfdfg
 
 
 <p>byuuvyuavyvtobaibay</p>
